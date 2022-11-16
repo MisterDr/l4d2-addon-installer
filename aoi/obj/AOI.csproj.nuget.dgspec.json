@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Games\\l4d2-addon-installer\\aoi\\AOI.csproj": {}
+  },
+  "projects": {
+    "G:\\Games\\l4d2-addon-installer\\aoicl\\AOICL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Games\\l4d2-addon-installer\\aoicl\\AOICL.csproj",
+        "projectName": "AOICL",
+        "projectPath": "G:\\Games\\l4d2-addon-installer\\aoicl\\AOICL.csproj",
+        "packagesPath": "C:\\Users\\MrDr\\.nuget\\packages\\",
+        "outputPath": "G:\\Games\\l4d2-addon-installer\\aoicl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MrDr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "H:\\MachinezDesign\\emgucv\\platforms\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Games\\l4d2-addon-installer\\aoi\\AOI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Games\\l4d2-addon-installer\\aoi\\AOI.csproj",
+        "projectName": "AOI",
+        "projectPath": "G:\\Games\\l4d2-addon-installer\\aoi\\AOI.csproj",
+        "packagesPath": "C:\\Users\\MrDr\\.nuget\\packages\\",
+        "outputPath": "G:\\Games\\l4d2-addon-installer\\aoi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MrDr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "H:\\MachinezDesign\\emgucv\\platforms\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {
+              "G:\\Games\\l4d2-addon-installer\\aoicl\\AOICL.csproj": {
+                "projectPath": "G:\\Games\\l4d2-addon-installer\\aoicl\\AOICL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

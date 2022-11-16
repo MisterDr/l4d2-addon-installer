@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AOICL": {
+      "commandName": "Executable",
+      "executablePath": "G:\\Games\\rr\\bin\\Debug\\net35\\AOI.exe"
+    }
+  }
+}

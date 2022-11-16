@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Left-4-Dead-2-Add-on-Installer": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

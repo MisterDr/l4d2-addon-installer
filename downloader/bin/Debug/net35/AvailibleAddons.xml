@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<addons>
+
+  <!--<externaladdons>
+    <url>http://teamsao.pjusolutions.com/l4d2/l4donl4d2.xml</url>
+  </externaladdons>-->
+
+  <addon>
+    
+    <!--THESE VALUES NEED TO MATCH THE ADDONIFO.TXT FOR INSTALLED
+      ADDONS TO LINK UP WITH USERS INSTALLED ADDONS-->
+    
+    <addoninfo>
+      <!--LOOKING AT THE VALVE WIKI IT APPEARS ADDONS ARE CHECKED AGAINST
+      NAME AND VERSION SO THESE ARE THE MINIMUM TWO VALUES NEEDED TO MATCH
+      ADDONS-->
+      <name>test</name>
+      <version>1.1</version>
+
+      <!--THIS IS THE NAME OF THE ADDON AS YOU WANT IT DISPLAYED. THIS DOES NOT HAVE
+      TO MATCH THE NAME IN THE ADDON INFO FILE. BY DEFAULT IT USES THE NAME OF THE
+      ADDON BUT THIS ALLOWS YOU TO OVERRIDE IT.-->
+      <displayname>This is a test</displayname>
+    </addoninfo>
+
+    <!--SOME ADDONS HAVE MORE THAN JUST VPK FILES TO INSTALL. INSTEAD OF USING THE
+    SUGGESTED ARCHIVE LAYOUT YOU CAN SPECIFY CUSTOM COMMANDS FROM THE INSTALLER TO
+    COPY FILES/FOLDERS INTO THE RIGHT LOCAION-->
+    <install>
+      <!--THIS COMMAND WOULD COPY A VPK TO THE USERS ADDON DIR
+      HOWEVER THIS IS JUST AN EXAMPLE AS THE INSTALLER AUTOMATICALLY MOVES ALL VPKS
+      TO THE RIGHT DIRECTORY-->
+      <commands>
+        <command>COPY %e%\TEST.vpk %L4D2%\left4dead2\addons</command>
+        <command>COPY %e%\TEST.vpk %L4D2%\left4dead2\addons</command>
+      </commands>
+      <!--OVERRIDE SECTION STOPS THE INSTALLER FROM AUTOMATICALLY MOVING VPK TO THE INSTALL
+      FOLDER OR ATTEMPTING TO AUTO MATCH FOLDERS. OVERRIDES IMPLY THAT CUSTOM COMMANDS
+      FOR INSTALLING THE ADDOND HAVE BEEN MADE-->
+      <override>
+        <!--STOP VPKS FROM BEING AUTO INSTALLED INTO THE ADDONS DIR-->
+        <vpkmove>true</vpkmove>
+        <!--STOPS FOLDER MATCHING FROM BEING USED-->
+        <foldermatch>true</foldermatch>
+      </override>
+      
+    </install>
+    
+       
+    <dependancy>
+      <!--A NAME OF AN ADDON TO REQUIRE BEING INSTALLED USED FOR ADDONS THAT MAY REQUIRE
+      CONENT FROM OTHER ADDONS-->
+      <name>A ADDON NAME</name>
+    </dependancy>
+
+    <!--A LIST OF PLACES TO DOWNLOAD THE ADDON FROM. CAN BE MORE THAN ONE.
+    CURRENTLY THERE IS NOT SUPPORT FOR LIMITING ACCESS. E.G. USER NEEDS
+    TO BE A MEMBER OR PAID DOWNLOADS. HTTP ONLY ATM, FTP BASED MAY ALLOW
+    FOR A SUBSCRIPTION MODELS TO BE IMPLEMENTED.-->
+    <downloads>
+      
+      <!--A LOCATION TO DL THE FILE FROM-->
+      <download>
+        <!--THE ACTUAL URL TO DL FROM-->
+        <url>http://www.site.com/download.zip</url>
+        <!--DOWNLOADS ARE PACKAGED AS ARCHIVED FILES AND DEPENDANT UPON
+        COMPRESSION AND FILE FORMAT THE MD5 OF EACH DOWNLOAD WILL
+        BE DIFFERENT. JUST STORED TO HELP CHECH FILES, IT IS NOT REQUIRED-->
+        <md5>used to varify addons</md5>
+      </download>
+      
+    </downloads>
+    
+  </addon>
+     
+  
+</addons>

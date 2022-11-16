@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AddOns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AddOns>
+    <AddOn>
+      <Title>Road Kill Map</Title>
+      <Version>1.0</Version>
+      <DisplayName>Road Kill Map</DisplayName>
+      <Size>80462182</Size>
+      <Homepage>http://bans.official-instructions.com</Homepage>
+      <Downloads>
+        <AddOnDownload>
+          <URL>https://files.official-instructions.com/addons/Maps_Roadkill.zip</URL>
+          <Size>80462182</Size>
+        </AddOnDownload>
+      </Downloads>
+    </AddOn>
+  </AddOns>
+</AddOns>

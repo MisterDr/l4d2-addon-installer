@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AOI": {
+      "commandName": "Project",
+      "commandLineArgs": "G:\\Games\\rr\\bin\\Debug\\net35\\task.xml I:\\SteamLibrary\\steamapps\\common\\Left 4 Dead 2\\"
+    }
+  }
+}

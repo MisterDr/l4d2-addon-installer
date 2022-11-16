@@ -1,0 +1,52 @@
+G:\Games\rr\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmAbout.resources
+G:\Games\rr\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmAddOnProperties.resources
+G:\Games\rr\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmInstallUnmanagedAddOn.resources
+G:\Games\rr\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmMain.resources
+G:\Games\rr\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmOptions.resources
+G:\Games\rr\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmSplashScreen.resources
+G:\Games\rr\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.Resources.resources
+G:\Games\rr\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.GenerateResource.cache
+G:\Games\rr\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Games\rr\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.CoreCompileInputs.cache
+G:\Games\rr\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.AssemblyReference.cache
+G:\Games\rr\bin\Debug\net35\L4D2 Add-on Installer.exe.config
+G:\Games\rr\bin\Debug\net35\L4D2 Add-on Installer.exe
+G:\Games\rr\bin\Debug\net35\L4D2 Add-on Installer.pdb
+G:\Games\rr\bin\Debug\net35\AOI.exe
+G:\Games\rr\bin\Debug\net35\AOICL.dll
+G:\Games\rr\bin\Debug\net35\Kjs.AppLife.Update.Controller.dll
+G:\Games\rr\bin\Debug\net35\ChilkatDotNet2.dll
+G:\Games\rr\bin\Debug\net35\ICSharpCode.SharpZipLib.dll
+G:\Games\rr\bin\Debug\net35\VPKTools.dll
+G:\Games\rr\bin\Debug\net35\AOICL.pdb
+G:\Games\rr\bin\Debug\net35\AOI.pdb
+G:\Games\rr\bin\Debug\net35\AOI.exe.config
+G:\Games\rr\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.CopyComplete
+G:\Games\rr\obj\Debug\net35\L4D2 Add-on Installer.exe
+G:\Games\rr\obj\Debug\net35\L4D2 Add-on Installer.pdb
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.AssemblyReference.cache
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmAbout.resources
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmAddOnProperties.resources
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmInstallUnmanagedAddOn.resources
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmMain.resources
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmOptions.resources
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.frmSplashScreen.resources
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left_4_Dead_2_Add_on_Installer.Resources.resources
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.GenerateResource.cache
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.CoreCompileInputs.cache
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\L4D2 Add-on Installer.exe
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\L4D2 Add-on Installer.pdb
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\L4D2 Add-on Installer.exe.config
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\L4D2 Add-on Installer.exe
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\L4D2 Add-on Installer.pdb
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\AOI.exe
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\AOICL.dll
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\Kjs.AppLife.Update.Controller.dll
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\ChilkatDotNet2.dll
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\ICSharpCode.SharpZipLib.dll
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\VPKTools.dll
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\AOICL.pdb
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\AOI.pdb
+G:\Games\AddonDownloader\downloader\bin\Debug\net35\AOI.exe.config
+G:\Games\AddonDownloader\downloader\obj\Debug\net35\Left-4-Dead-2-Add-on-Installer.csproj.CopyComplete

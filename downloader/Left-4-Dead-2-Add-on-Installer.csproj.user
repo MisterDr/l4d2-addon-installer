@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmAddOnFeedManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmAddOnProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmAddOnURLs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmConfirmInstall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmDownloadCache.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmInstallUnmanagedAddOn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\frmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Left_4_Dead_2_Add_on_Installer\LVNF.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Left_4_Dead_2_Add_on_Installer.frmAbout.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
